@@ -38,7 +38,7 @@
     <tr>
       <td>CS 229</td>
       <td>Machine Learning</td>
-      <td>Standford</td>
+      <td>Stanford</td>
       <tr>
         <td colspan="3">
           <ul>
@@ -54,8 +54,7 @@
           </ul>
         </td>
        </td>
-      </tr>
-    
+      </tr>    
     <tr>
       <td>CSCC11</td>
       <td>Machine Learning and Data Mining</td>
@@ -64,8 +63,8 @@
     <tr>
       <td colspan="3">
           <ul>
-            <li> http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml</li>
-            <li> http://www.cs.cmu.edu/~aarti/Class/10701/exams/</li>
+            <li> http://www.cs.toronto.edu/~mbrubake/teaching/C11/</li>
+            <li> http://www.cs.toronto.edu/~mbrubake/teaching/C11/oldexams.html</li>
           </ul>
       </td>
      </tr>
