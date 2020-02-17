@@ -21,7 +21,7 @@
        </td>
       </tr>
     </tr>
-        <tr>
+    <tr>
       <td>CS 781</td>
       <td>Machine Learning</td>
       <td>Carnegie Mellon University</td>
@@ -34,6 +34,41 @@
         </td>
        </td>
       </tr>
+    </tr>
+    <tr>
+      <td>CS 229</td>
+      <td>Machine Learning</td>
+      <td>Standford</td>
+      <tr>
+        <td colspan="3">
+          <ul>
+            <li>     <tr>
+      <td>CS 781</td>
+      <td>Machine Learning</td>
+      <td>Carnegie Mellon University</td>
+      <tr>
+        <td colspan="3">
+          <ul>
+            <li> http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml</li>
+            <li> http://www.cs.cmu.edu/~aarti/Class/10701/exams/</li>
+          </ul>
+        </td>
+       </td>
+      </tr>
+    
+    <tr>
+      <td>CSCC11</td>
+      <td>Machine Learning and Data Mining</td>
+      <td>University of Toronto</td>
+    <tr>
+    <tr>
+      <td colspan="3">
+          <ul>
+            <li> http://www.cs.cmu.edu/~tom/10701_sp11/prev.shtml</li>
+            <li> http://www.cs.cmu.edu/~aarti/Class/10701/exams/</li>
+          </ul>
+      </td>
+     </tr>
     </tr>
   </tbody>
 
