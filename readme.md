@@ -4,7 +4,6 @@
         <td>Code</td>
         <td>Name</td>
         <td>University</td>
-        <td>Link</td>
       </tr>
   </thread>
   <tbody>
@@ -13,8 +12,13 @@
         <td>A Introduction to Machine Learning</td>
         <td>UC Berkeley</td>
         <tr>
-          <td>https://people.eecs.berkeley.edu/~jrs/189/</td>
-          <td>https://people.eecs.berkeley.edu/~jrs/189/exam/</td>
+          <td>
+            <ul>
+              <li> https://people.eecs.berkeley.edu/~jrs/189/</li>
+              <li> https://people.eecs.berkeley.edu/~jrs/189/exam/</li>
+            </ul>
+          </td>
+         </td>
         </tr>
       </tr>
   </tbody>
