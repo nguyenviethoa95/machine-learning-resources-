@@ -12,7 +12,7 @@
         <td>A Introduction to Machine Learning</td>
         <td>UC Berkeley</td>
         <tr>
-          <td>
+          <td colspan="3">
             <ul>
               <li> https://people.eecs.berkeley.edu/~jrs/189/</li>
               <li> https://people.eecs.berkeley.edu/~jrs/189/exam/</li>
