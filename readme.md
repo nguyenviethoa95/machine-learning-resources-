@@ -68,6 +68,21 @@
           </ul>
       </td>
      </tr>
+    </tr>    
+    <tr>
+      <td>CS236-Fall2019</td>
+      <td>Deep Generative Model</td>
+      <td>Stanford University</td>
+    <tr>
+    <tr>
+      <td colspan="3">
+          <ul>
+            <li> https://deepgenerativemodels.github.io/</li>
+            <li> https://deepgenerativemodels.github.io/syllabus.html</li>
+          </ul>
+      </td>
+     </tr>
     </tr>
+    
   </tbody>
 
